@@ -1,8 +1,8 @@
 %  Côte d’Ivoire - CIV 
-%  Mon May 20 08:43:52 2024 
+%  Tue May 21 08:30:30 2024 
 
 country(civ,'Côte d’Ivoire'). 
-date('Mon May 20 08:43:52 2024').
+date('Tue May 21 08:30:30 2024').
 
 estimate_required(civ,bcg,1997,na,'na').
  estimate_required(civ,bcg,1998,na,'na').
